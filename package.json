@@ -1,8 +1,8 @@
 {
-  "name": "adminpanel-talabamizuz",
+  "name": "admin-talabamiz",
   "version": "1.2.0",
   "private": true,
-  "homepage": "https://Mirabbos1997.github.io/admin-talabamizuz",
+  "homepage": "https://Mirabbos1997.github.io/admin-talabamiz",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.1",
     "bootstrap": "4.5.3",
